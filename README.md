@@ -1,5 +1,6 @@
 # Esto es una prueba de Pull Request
 
+El fin esta cerca 
 HUGO ARROYO GALLEGO
 Alderfer 
 David Kalmuk
@@ -19,6 +20,7 @@ Aaron Campos
 Minerva
 Carlos Ruiz
 Toni
+
 
 
 
