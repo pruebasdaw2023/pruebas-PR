@@ -1,4 +1,6 @@
 # Esto es una prueba de Pull Request
+Lucia mansogo
+
 
 
 
@@ -42,9 +44,3 @@ Aaron Campos
 Minerva
 Carlos Ruiz
 Toni
-
-
-
-
-
-
