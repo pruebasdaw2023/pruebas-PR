@@ -6,3 +6,4 @@ codigo adicionado por Rbr
 Cristian M
 Aaron Campos
 
+Carlos Ruiz
