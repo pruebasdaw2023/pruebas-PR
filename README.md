@@ -1,4 +1,6 @@
 # Esto es una prueba de Pull Request
+
+HUGO ARROYO GALLEGO
 Alderfer 
 David Kalmuk
 Arturo Orient :)
@@ -17,5 +19,6 @@ Aaron Campos
 Minerva
 Carlos Ruiz
 Toni
+
 
 
