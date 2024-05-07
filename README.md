@@ -1,14 +1,13 @@
 # Esto es una prueba de Pull Request
 
+Arturo Orient :)
 Marco Blasco
 Ronal Briones
 Steve reporting
 Pablo
 Hola luis he modificado el readme
-
 Ruben
 Jesús David Ramos Cardona
-
 raul
 nico
 codigo adicionado por Rbr
@@ -17,4 +16,5 @@ Aaron Campos
 Minerva
 Carlos Ruiz
 Toni
+
 
