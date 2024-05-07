@@ -1,4 +1,8 @@
+ 
 # Esto es una prueba de Pull Request
+
+"ESTO ES UNA PRUEBA DESDE MI COMPUTADOR"
+
 Lucia mansogo
 
 
@@ -44,3 +48,4 @@ Aaron Campos
 Minerva
 Carlos Ruiz
 Toni
+
