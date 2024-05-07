@@ -1,3 +1,13 @@
 # Esto es una prueba de Pull Request
 
-Alumno: Jesús David Ramos Cardona
+
+Jesús David Ramos Cardona
+
+raul
+nico
+codigo adicionado por Rbr
+Cristian M
+Aaron Campos
+
+Carlos Ruiz
+
