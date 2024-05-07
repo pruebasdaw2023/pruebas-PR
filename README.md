@@ -1,5 +1,8 @@
 # Esto es una prueba de Pull Request
 
+Ronal Briones
+Steve reporting
+
 Hola luis he modificado el readme
 
 Ruben
@@ -13,5 +16,3 @@ Aaron Campos
 Minerva
 Carlos Ruiz
 Toni
-
-
