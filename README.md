@@ -1,4 +1,14 @@
+ 
 # Esto es una prueba de Pull Request
+
+HOlA, soy Iker y estoy realizando cambios en el archivo
+AOFHIDFHDIFDIF
+
+
+"ESTO ES UNA PRUEBA DESDE MI COMPUTADOR"
+
+Lucia mansogo
+
 
 
 
@@ -67,9 +77,6 @@
 
   ![GitHub Starts](https://img.shields.io/github/stars/luciamam?style=for-the-badge&logoColor=%23FFFFFF)
   </a>
-
-
-
 
 
 
